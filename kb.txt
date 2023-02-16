@@ -12,3 +12,10 @@ Manual Testing
 Git / GitHub
 JIRA
 JSON File
+
+
+Project::
+Marketplace
+
+Client::
+PharmEasy
