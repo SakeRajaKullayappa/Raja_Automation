@@ -1,0 +1,14 @@
+I am working as Python Automation Developer.
+
+Key Skills are::
+
+Python
+Selenium Tool
+PyTest Framework
+Robot Framework
+Postman Tool
+RestAPI
+Manual Testing
+Git / GitHub
+JIRA
+JSON File
