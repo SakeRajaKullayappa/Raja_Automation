@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="10" time="0.116" timestamp="2023-07-12T11:29:27.086247" hostname="DESKTOP-2D94MR8"><testcase classname="test_First" name="test_1" time="0.001"><failure message="AssertionError: x and y are not same&#10;assert 10 == 20">def test_1():
+        x = 10
+        y = 20
+&gt;       assert x == y, "x and y are not same"
+E       AssertionError: x and y are not same
+E       assert 10 == 20
+
+test_First.py:4: AssertionError</failure></testcase><testcase classname="test_First" name="test_2" time="0.001" /><testcase classname="test_First" name="test_3" time="0.000" /><testcase classname="test_First" name="test_4" time="0.000" /><testcase classname="test_Second" name="test_Login" time="0.001" /><testcase classname="test_Second" name="test_Checkout" time="0.001" /><testcase classname="test_Second" name="test_Logout" time="0.001" /><testcase classname="test_Three" name="test_StatusCode200" time="0.001" /><testcase classname="test_Three" name="test_StatusCode400" time="0.001" /><testcase classname="test_Three" name="test_StatusCode500" time="0.002" /></testsuite></testsuites>

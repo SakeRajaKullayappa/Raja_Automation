@@ -1,0 +1,86 @@
+1689223344006	geckodriver	INFO	Listening on 127.0.0.1:60916
+1689223347074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilettfvHs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689223347764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689223347771	Marionette	INFO	Listening on port 60924
+Read port: 60924
+WebDriver BiDi listening on ws://127.0.0.1:60917
+1689223347976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60917/devtools/browser/6cfd4d28-b3e6-4191-9f54-e7c97ec0cc23
+1689223359834	Marionette	INFO	Stopped listening on port 60924
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.fc3ee2da.js, line 74: TypeError: can't access dead object
+1689223374926	geckodriver	INFO	Listening on 127.0.0.1:61006
+1689223377971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileuK37xG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689223378322	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689223378326	Marionette	INFO	Listening on port 61014
+WebDriver BiDi listening on ws://127.0.0.1:61007
+Read port: 61014
+1689223378621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61007/devtools/browser/b9376d66-b516-4af0-9cfa-b103b87faf73
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yF/l/en_GB/boFRcJH3lCt.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689223386081	Marionette	INFO	Stopped listening on port 61014
+Dynamically enable window occlusion 1
+[Parent 14808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1689223674831	geckodriver	INFO	Listening on 127.0.0.1:61108
+1689223677918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileh0LRGP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689223678669	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689223678676	Marionette	INFO	Listening on port 61125
+Read port: 61125
+WebDriver BiDi listening on ws://127.0.0.1:61109
+1689223679052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61109/devtools/browser/905e8e00-8ffe-4d5f-9125-1cfd6aee2bfe
+1689223689856	Marionette	INFO	Stopped listening on port 61125
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.fc3ee2da.js, line 74: TypeError: can't access dead object
+1689223707048	geckodriver	INFO	Listening on 127.0.0.1:61235
+1689223710096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilexuRLUK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689223710563	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689223710568	Marionette	INFO	Listening on port 61243
+Read port: 61243
+WebDriver BiDi listening on ws://127.0.0.1:61236
+1689223710720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61236/devtools/browser/862164af-6843-4d72-858c-f8c82243f0c2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yF/l/en_GB/boFRcJH3lCt.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689223718835	Marionette	INFO	Stopped listening on port 61243
+Dynamically enable window occlusion 1
+[Parent 8816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1689224236563	geckodriver	INFO	Listening on 127.0.0.1:61356
+1689224239620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVjpisO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689224240018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689224240025	Marionette	INFO	Listening on port 61364
+Read port: 61364
+WebDriver BiDi listening on ws://127.0.0.1:61357
+1689224240227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61357/devtools/browser/d54087a8-891d-4c2c-8c1d-5dfb1f9d4c1e
+1689224253049	Marionette	INFO	Stopped listening on port 61364
+Dynamically enable window occlusion 1
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.fc3ee2da.js, line 74: TypeError: can't access dead object
+1689224270216	geckodriver	INFO	Listening on 127.0.0.1:61456
+1689224273232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileBmz1oq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689224273846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689224273852	Marionette	INFO	Listening on port 61464
+Read port: 61464
+WebDriver BiDi listening on ws://127.0.0.1:61457
+1689224274169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61457/devtools/browser/29070827-2172-409d-bf19-3065c4d09e4f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yF/l/en_GB/boFRcJH3lCt.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1689224283020	Marionette	INFO	Stopped listening on port 61464
+Dynamically enable window occlusion 1
